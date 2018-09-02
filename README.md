@@ -1,2 +1,2 @@
 # bb6
-basic development for new app 
+idk what i did 
